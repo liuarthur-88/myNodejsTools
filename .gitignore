@@ -1,0 +1,4 @@
+/config/config.pem
+/enc/app/10-public-key.pem
+/enc/config/config.pem
+/enc/node_modules

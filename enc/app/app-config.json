@@ -1,0 +1,9 @@
+{
+    "app": {
+        "curr_uid": "NA Scheduler",
+        "my_role_id": "9901",
+        "co_id": "65D78929-5094-4D67-ACF9-0D4F4F6B1BFD",
+        "url": "~/scheduler.js",
+        "task_scheduler": "0 0 * * * *"
+    }
+}

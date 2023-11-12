@@ -1,0 +1,8 @@
+{
+    "sql": {
+        "uid": "eg_pms",
+        "pwd": "eg_pms123",
+        "db": "eg_pms",
+        "server": "(local)\\sqlexpress"
+    }
+}
